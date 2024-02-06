@@ -1,0 +1,1 @@
+cmd = ../Distal_Lost.bed hg38 Distal_Lost -p 2 -size 200 -noknown
